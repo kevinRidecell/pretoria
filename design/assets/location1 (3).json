@@ -1,0 +1,11 @@
+[
+        {
+			
+            "name": "No.25, Chord Rd.",
+			"id": 1,
+            "location": { "latitude": 12.959319, "longitude": 77.574353 },
+			"focusLocation": { "zoom": 14, "bearing": 90 },
+    "category": "Dealership",
+    "details": "10 Vehicles available" 
+        }
+    ]
